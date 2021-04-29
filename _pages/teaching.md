@@ -19,7 +19,7 @@ During my PhD at the [University of Antwerp Operations Research (ANT/OR)](https:
 
 Before that, I worked at the [University of Tuzla, Deparment of Mathematics](http://pmf.untz.ba/odsjeci/matematika/) as a teaching assistant in 2009/10 and 2013/14, where I prepared and conducted exercise and exam sessions for the following courses: Functional analysis, Set theory, Probability theory, Statistics, Numerical analysis, Introduction to mathematics, Popular mathematics at the Faculty of Science; Mathematics I and Mathematics II at the Faculty of Technology; Mathematics II at the Faculty of Civil Engineering; and Mathematics for economists at the Faculty of Economics.
 
-An old website with course notes, exam sessions and tips while working at the University of Tuzla can be found [here](https://renataturkes.wixsite.com/renata-turkes). My workbooks with detailed solutions (in Bosnian language) are available for some of the courses:
+An old website with course notes, exam sessions and tips during my time at the University of Tuzla can be found [here](https://renataturkes.wixsite.com/renata-turkes). My workbooks with detailed solutions (in Bosnian language) are available for some of the courses:
 - [Set theory](https://132467e1-5067-00f7-b135-ff7a5eeb0509.filesusr.com/ugd/eb99bb_559d75cc8655435a877855e400c0f2f5.pdf)
 - [Functional analysis](https://132467e1-5067-00f7-b135-ff7a5eeb0509.filesusr.com/ugd/eb99bb_52e5eb5632d9f3d741619221fea33eca.pdf)
 - [Probability theory](https://132467e1-5067-00f7-b135-ff7a5eeb0509.filesusr.com/ugd/eb99bb_58083d61215236682cb73acfb8054f66.pdf)
