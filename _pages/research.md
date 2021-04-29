@@ -49,8 +49,11 @@ Renata Turkeš, Daniel Palhazi Cuervo, Kenneth Sörensen
 
 
 <div>
-<p style="float: right;"><img src="https://github.com/renata-turkes/renata-turkes.github.io/blob/master/images/turkevs2019instances_title_image.png?raw=true" height="200px" width="200px" border="1px"></p>
-<p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+<p style="float: right;"><img src="https://github.com/renata-turkes/renata-turkes.github.io/blob/master/images/turkevs2019pre_title_image.png?raw=true" height="200px" width="200px" border="1px"></p>
+<p>
+<a href="https://link.springer.com/article/10.1007%2Fs10479-017-2702-1"> <strong> Pre-positioning of emergency supplies: Does putting a price on human life help to save lives? </strong> </a>  
+Renata Turkeš, Daniel Palhazi Cuervo, Kenneth Sörensen  
+<em>Annals of Operations Research 283, 865–895 (2019)</em>  
+<a href="https://antor.uantwerpen.be/data-used-in-the-paper-pre-positioning-of-emergency-supplies-does-putting-a-price-on-human-life-help-to-save-lives/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2016pre_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/does-putting-a-price-on-human-life-help-to-save-lives/">Blog</a>  
+</p>
 </div>
-
-<IMG SRC=”https://github.com/renata-turkes/renata-turkes.github.io/blob/master/images/turkevs2019instances_title_image.png” ALIGN=”right” />This text flows on the left.
