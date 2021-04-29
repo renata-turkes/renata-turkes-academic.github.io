@@ -30,7 +30,7 @@ author_profile: true
   </tr>  
     <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="images/turkevs2020meta_title_image.png" width="200"> 
+      <img src="profile.png" width="200"> 
     </td>
     <td> 
       <br>
