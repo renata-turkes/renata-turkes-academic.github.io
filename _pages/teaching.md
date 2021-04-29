@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-During my PhD at the [University of Antwerp Operations Research (ANT/OR)](https://antor.uantwerpen.be/) group, I supervised a few theses and courses:
+While affiliated with the [University of Antwerp Operations Research (ANT/OR)](https://antor.uantwerpen.be/) group, I supervised a few theses and courses:
 - <em>Mathematical models and solutions for container stowage problems</em>, Kiros Gebrearegawi Kebedow, Hawassa University, 2019. I served as a member of Kiros's PhD dissertation committee. 
 - <em>Matching pupils to schools: Analysis of the Antwerp matching algorithm</em>, Jonas Dierckxsens, University of Antwerp, 2017/2108. I supervised Jonas's work, which was nominated for the Belgian Operational Research Society award as the best master thesis in operations research.
 - <em>Corporate social responsibility</em>, University of Antwerp, 2014-2018. I supervised a number of team projects wherein master's students develop solutions for non-profit and social-profit organisations that cannot afford expensive consulting services. 
