@@ -18,7 +18,7 @@ author_profile: true
 <table style="width:100%">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="images/turkevs2021noise_title_image.png" width="200"> 
+      <img src="universe.jpg" width="200"> 
     </td>
     <td> 
       <br>
