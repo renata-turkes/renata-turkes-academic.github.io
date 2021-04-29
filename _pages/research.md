@@ -18,7 +18,7 @@ author_profile: true
 <table style="width:100%">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="title_images/turkevs2021noise_title_image.png" width="200"> 
+      <img src="images/turkevs2021noise_title_image.png" width="200"> 
     </td>
     <td> 
       <br>
@@ -30,7 +30,7 @@ author_profile: true
   </tr>  
     <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="title_images/turkevs2020meta_title_image.png" width="200"> 
+      <img src="images/turkevs2020meta_title_image.png" width="200"> 
     </td>
     <td> 
       <br>
@@ -41,7 +41,7 @@ author_profile: true
   </tr>   
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="title_images/turkevs2021matheuristic_title_image.png" width="200"> 
+      <img src="images/turkevs2021matheuristic_title_image.png" width="200"> 
     </td>
     <td> 
       <br>
@@ -64,10 +64,10 @@ author_profile: true
   </tr> 
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="images/turkevs2019pre_title_image.png" width="200"> 
+      <img src="turkevs2019pre_title_image.png" width="200"> 
     </td>
     <td> 
-      <a href="https://link.springer.com/article/10.1007%2Fs10479-017-2702-1"> <strong> Pre-positioning of emergency supplies: does putting a price on human life help to save lives? </strong> </a> <br> 
+      <a href="https://link.springer.com/article/10.1007%2Fs10479-017-2702-1"> <strong> Pre-positioning of emergency supplies: Does putting a price on human life help to save lives? </strong> </a> <br> 
       Renata Turkeš, Daniel Palhazi Cuervo, Kenneth Sörensen <br>  
       <em>Annals of Operations Research 283, 865–895 (2019)</em> <br/><br/> 
       <a href="https://antor.uantwerpen.be/data-used-in-the-paper-pre-positioning-of-emergency-supplies-does-putting-a-price-on-human-life-help-to-save-lives/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2016pre_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/does-putting-a-price-on-human-life-help-to-save-lives/">Blog</a>
