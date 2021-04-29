@@ -25,7 +25,7 @@ author_profile: true
       <strong> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures </strong> <br> 
       Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré <br>  
       <em>(in preparation)</em> <br/><br/> 
-      <a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a> | <a href="https://github.com/renata-turkes/renata-turkes.github.io/tree/main/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> 
+      <a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a> | <a href="https://github.com/renata-turkes/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> 
     </td>
   </tr>  
     <tr>
