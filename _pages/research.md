@@ -28,7 +28,7 @@ Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum
 <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <em>Data in Brief</em> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/meta-analysis-of-metaheuristics/">Blog</a>  
 <br>
 <br>
-<strong> Design of experiments in humanitarian logistics: Facility decision making in disaster preparedness </strong>
+<strong> Design of experiments in humanitarian logistics: Facility decision making in disaster preparedness </strong>  
 Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo  
 <em>(under review)</em>  
 <a href="https://data.mendeley.com/datasets/b9fc88wp4x/1">Data</a>
