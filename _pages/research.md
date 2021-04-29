@@ -30,7 +30,7 @@ author_profile: true
   </tr>  
     <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="profile.png" width="200"> 
+      <img src="images/profile.png" width="200"> 
     </td>
     <td> 
       <br>
