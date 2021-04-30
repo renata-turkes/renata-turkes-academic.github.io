@@ -18,8 +18,8 @@ author_profile: true
 
 <strong> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures </strong>  
 Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré  
-<em>(in preparation)</em>  
-<a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a> | <a href="https://github.com/renata-turkes/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a>   
+<em>(under review)</em>  
+<a href="https://github.com/renata-turkes/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> | <a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a>  
 <br>
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a>  
