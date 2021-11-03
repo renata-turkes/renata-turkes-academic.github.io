@@ -18,13 +18,13 @@ author_profile: true
 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257215"> <strong> Noise robustness of persistent homology on greyscale images, across filtrations and signatures </strong> </a>  
 Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré  
-<em>PLOS ONE 16(9): e0257215</em>  
+<em>PLOS ONE (2021)</em>  
 <a href="https://github.com/renata-turkes/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> | [Slides](/files/turkevs2021noise_slides.pdf) | <a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a>  
 <br>
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a>  
 Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum  
-<em>European Journal of Operational Research (2020)</em>  
+<em>European Journal of Operational Research (2021)</em>  
 <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <em>Data in Brief</em> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/meta-analysis-of-metaheuristics/">Blog</a>  
 <br>
 <br>
@@ -42,7 +42,7 @@ Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo
 <br>
 <a href="https://www.emerald.com/insight/content/doi/10.1108/JHLSCM-02-2018-0016/full/html"> <strong> Instances for the problem of pre-positioning emergency supplies </strong> </a>  
 Renata Turkeš, Kenneth Sörensen  
-<em>Journal of Humanitarian Logistics and Supply Chain Management, Vol. 9 No. 2, pp. 172-195 (2019)</em>  
+<em>Journal of Humanitarian Logistics and Supply Chain Management (2019)</em>  
 <a href="https://antor.uantwerpen.be/prepositioning-problem-instances/">Data</a>   
 <br>
 <br>
