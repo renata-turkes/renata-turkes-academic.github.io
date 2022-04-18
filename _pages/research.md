@@ -36,7 +36,7 @@ Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo
 <br>
 <a href="https://link.springer.com/article/10.1007/s10732-021-09468-y"> <strong> A matheuristic for the stochastic facility location problem </strong> </a>  
 Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo  
-<em>Journal of Heuristics (2021)</em>  
+<em>Journal of Heuristics (2021) </em>  
 <a href="https://antor.uantwerpen.be/data-used-in-the-paper-a-matheuristic-for-the-pre-positioning-of-emergency-supplies/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2018matheuristic_pres.pdf">Slides</a>  
 <br>
 <br>
