@@ -17,7 +17,7 @@ author_profile: true
 
 <a href="https://arxiv.org/"> <strong> On the effectiveness of persistent homology </strong> </a>  
 Renata Turkeš, Guido Montúfar, Nina Otter  
-<a href="https://github.com/renata-turkes/turkevs2022on">Code</a> | [Slides](/files/turkevs2022on_slides.pdf) |  
+<a href="https://github.com/renata-turkes/turkevs2022on">Code</a> | [Slides](/files/turkevs2022on_slides.pdf)
 <br>
 <br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257215"> <strong> Noise robustness of persistent homology on greyscale images, across filtrations and signatures </strong> </a>  
