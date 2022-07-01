@@ -24,7 +24,7 @@ Renata Turkeš, Guido Montúfar, Nina Otter
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257215"> <strong> Noise robustness of persistent homology on greyscale images, across filtrations and signatures </strong> </a>  
 Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré  
 <em>PLOS ONE (2021)</em>  
-<a href="https://github.com/renata-turkes/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> | [Slides](/files/turkevs2021noise_slides.pdf) | <a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a>  
+<a href="https://github.com/renata-turkes/turkevs2021noise">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> | <a href="https://youtu.be/E9FBrhbQ4ho">Video</a> | [Slides](/files/turkevs2021noise_slides.pdf) | <a href="https://www.imsi.institute/wp-content/uploads/2021/04/Turkes.png">Poster</a>  
 <br>
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a>  
