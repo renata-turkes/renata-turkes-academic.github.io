@@ -17,7 +17,7 @@ author_profile: true
 
 <a href="https://arxiv.org/abs/2206.10551"> <strong> On the effectiveness of persistent homology </strong> </a>  
 Renata Turkeš, Guido Montúfar, Nina Otter  
-<a href="https://github.com/renata-turkes/turkevs2022on">Code</a> | [Slides](/files/turkevs2022on_slides.pdf)
+<a href="https://github.com/renata-turkes/turkevs2022on">Code</a> | [Slides](/files/turkevs2022on_slides_aatrn.pdf)
 <br>
 <br>
 <br>
