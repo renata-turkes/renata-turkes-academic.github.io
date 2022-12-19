@@ -15,4 +15,4 @@ My main research interests lie in the domain of topological data analysis. In 20
 
 In 2019 I completed [my PhD](https://antor.uantwerpen.be/members/renata-turkes/) within the [University of Antwerp Operations Research (ANT/OR)](https://antor.uantwerpen.be/) group, under the supervision of Professor [Kenneth Sörensen](https://www.uantwerpen.be/en/staff/kenneth-sorensen/). I obtained a Msc in Pure Mathematics from [KU Leuven](https://www.kuleuven.be/english/), and a BSc in Mathematics from the [University of Tuzla](http://www.untz.ba/index.php?page=home).
 
-Besides mathematics, I care about feminist, queer and anti-racist work, and love to travel, read and discuss [books](https://www.goodreads.com/user/show/110993062-renata), see art, play tennis or floatfit.
+Besides mathematics, I care about feminist, queer and anti-racist work, and love to travel, read and discuss [books](https://www.goodreads.com/user/show/110993062-renata), see art, play tennis or floatfit. I am also an enthusiastic [Antwerp Roller Derby](https://antwerprollerderby.be/) rookie.
