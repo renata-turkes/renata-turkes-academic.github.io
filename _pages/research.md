@@ -17,6 +17,7 @@ author_profile: true
 
 <a href="https://arxiv.org/abs/2206.10551"> <strong> On the effectiveness of persistent homology </strong> </a>  
 Renata Turkeš, Guido Montúfar, Nina Otter  
+Accepted to <em>NeurIPS (2022)</em>  
 <a href="https://github.com/renata-turkes/turkevs2022on">Code</a> | [Slides](/files/turkevs2022on_slides_aatrn.pdf) | <a href="https://www.youtube.com/watch?v=T7ENBfuRIl0&ab_channel=AppliedAlgebraicTopologyNetwork">Video</a>
 <br>
 <br>
