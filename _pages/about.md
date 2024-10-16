@@ -17,4 +17,4 @@ I obtained a PhD in topological data analysis, and a PhD in operations research,
 
 From September 2021 to June 2022 I worked with [Guido Montúfar](https://www.math.ucla.edu/~montufar/) and [Nina Otter](https://www.ninaotter.com) as a Fulbright visiting scholar at the [UCLA Department of Mathematics](https://ww3.math.ucla.edu/).
 
-Besides mathematics, I care about feminist, queer and anti-racist work, and love to travel, read and discuss [books](https://www.goodreads.com/user/show/110993062-renata), see art, play (table-)tennis or floatfit. Most of all, in the last years, I spend a lot of time playing and thinking about [roller derby](https://antwerprollerderby.be/).
+Besides mathematics, I care about feminist, queer and anti-racist work, and love to hang out with my dog, travel, read and discuss [books](https://www.goodreads.com/user/show/110993062-renata), see art, play (table-)tennis or floatfit. Most of all, in the last years, I spend a lot of time playing and thinking about [roller derby](https://antwerprollerderby.be/).
