@@ -15,9 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<a href="https://arxiv.org/pdf/2412.18452"> <strong> Shoving tubes through shapes gives a sufficient and efficient shape statistic </strong> </a>  
+Adam Onus, Nina Otter, Renata Turkeš  
+<em>arXiv (2024)</em>  
+<br>
+<br>
+<a href="https://arxiv.org/pdf/2310.07073"> <strong> Pull-back geometry of persistent homology encodings </strong> </a>  
+Shuang Liang, Renata Turkeš, Jiayi Li, Nina Otter, Guido Montúfar  
+<em>Transactions on Machine Learning Research (2024)</em>  
+<a href="https://github.com/shuangliang15/pullback-geometry-persistent-homology">Code</a>
+<br>
+<br>
+<br>
 <a href="https://arxiv.org/abs/2206.10551"> <strong> On the effectiveness of persistent homology </strong> </a>  
 Renata Turkeš, Guido Montúfar, Nina Otter  
-Accepted to <em>NeurIPS (2022)</em>  
+<em>NeurIPS (2022)</em>  
 <a href="https://github.com/renata-turkes/turkevs2022on">Code</a> | [Slides](/files/turkevs2022on_slides_aatrn.pdf) | <a href="https://www.youtube.com/watch?v=T7ENBfuRIl0&ab_channel=AppliedAlgebraicTopologyNetwork">Video</a>
 <br>
 <br>
